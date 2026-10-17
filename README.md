@@ -105,8 +105,3 @@ sampah, dan mempertimbangkan pemilahan sampah plastik serta organik.
 **NIM:** 2418034\
 **Program Studi:** Teknik Informatika\
 **Institusi:** Institut Teknologi Nasional Malang
-
-------------------------------------------------------------------------
-
-Dokumentasi ini disusun sebagai bagian dari proyek analisis dan
-visualisasi data menggunakan Python.
