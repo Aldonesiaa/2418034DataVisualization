@@ -101,7 +101,7 @@ sampah, dan mempertimbangkan pemilahan sampah plastik serta organik.
 
 ## Informasi Proyek
 
-**Nama:** Muhammad Revaldo Andiuka\
+**Nama:** Muhammad Revaldo Andika\
 **NIM:** 2418034\
 **Program Studi:** Teknik Informatika\
 **Institusi:** Institut Teknologi Nasional Malang
